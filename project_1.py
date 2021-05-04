@@ -8,5 +8,5 @@ city = input("Which city did you grow up in?: ")
 pet = input("What pet do you have?: ")
 
 # 4. Combine the name of their city and pet and show them their band name.
-print("You band name is:", city + pet)  # String Concatenation
+print("You band name is:", city + pet)  # String Concatenation is done here.
 
